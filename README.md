@@ -104,6 +104,16 @@ The SPI Slave module will accomplish the following:
 <li> https://fastbitlab.com/spi-behind-scene-data-communication-principle/
 <li> https://www.researchgate.net/publication/339088398_FPGA_Implementation_of_SPI_Bus_Communication_Based_on_State_Machine_Method
 </ul>
+<h2>Team Members</h2>
+   <p>
+ 
+ 1. [Bhawna Rana](https://github.com/Bhawna-Rana)<br>
+ 2. [Jaya Bansal](https://github.com/Jaya-Bansal)<br>
+ 3. [Kaashvi Jain](https://github.com/stark-phoenix)<br>
+ 4. [Vaishnavi Virat Dave](https://github.com/DaveVaishnavi)<br>
+ 
+   </p>
+<br>
 
 
 
